@@ -1,0 +1,29 @@
+Netflix Data Analysis – Movies,tv-shows nd directors
+This project analyzes Netflix’s dataset to explore Indian movies, TV shows, directors, and genres using Power BI. The goal is to provide insights into the distribution of content, trends, and relationships within the datasethe dataset is sourced from publicly available Netflix metadata and includes the following columns:
+DATASET-DISCRIPTION:
+show_id – Unique ID for each title
+type – Movie or TV Show
+title – Name of the title
+director – Name(s) of the director(s)
+cast – Main actors
+country – Country of production
+date_added – Date the title was added to Netflix
+release_year – Year of release
+rating – Viewer classification
+duration – Length of title
+listed_in – Genres/categories
+description – Brief summary of the content.
+FIRSTPAGE:
+Total number of titles
+Count of Movies vs TV Shows
+Top 5 countries by content volume
+Ratings distribution
+Trend of content added over time
+SECONDPAGE-INDIAN DIRECTORS ND MOVIES
+List of directors
+Count of movies directed by Indian directors
+Count of TV shows by Indian directors
+ADDITIONAL ANALYSIS
+List of genres in Indian movies
+Unique count of genres
+Filtering by country, type, rating, and year
